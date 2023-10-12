@@ -9,7 +9,7 @@ datagroup: mtrmisathelookbarerepo_default_datagroup {
 }
 
 persist_with: mtrmisathelookbarerepo_default_datagroup
-# kh
+# khv
 explore: billion_orders {
   join: orders {
     type: left_outer
